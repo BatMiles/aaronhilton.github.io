@@ -72,19 +72,42 @@ body{
     color:#000;
 }
 
-.nav{
-    width: 400px;
+/*
+    Vertical Navigation
+                         */
+
+.cd-vertical-nav {
+	/*fix the navigation*/
+  	position: fixed;
+  	right: 40px;
+  	top: 50%;
+  	bottom: auto;
+  	transform: translateY(-50%);
 }
-
-.nav li{
-  position: fixed;
-  bottom: 0;
-  right: 0;
-
-  display:block;
-  z-index: 9999;
+ 
+.cd-vertical-nav a span {
+  	float: right;
+  	/*scale down navigation dots and labels*/
+  	transform: scale(0.6);
 }
-
+ 
+.cd-vertical-nav .cd-dot {
+  	transform-origin: 50% 50%;
+}
+ 
+.cd-vertical-nav .cd-label {
+  	transform-origin: 100% 50%;
+}
+ 
+.vertical-nav a:hover span {
+ 	/*scale up navigation dots and labels*/
+  	transform: scale(1);
+}
+ 
+.cd-vertical-nav a:hover .cd-label {
+	/*show labels*/
+ 	opacity: 1;
+}
 
 .jumbotron {
   background: url('lift.jpg') no-repeat center center fixed; 
