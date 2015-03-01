@@ -20,7 +20,7 @@ body{
     width:4000px;
     float:left;
     height:100%;
-    text-shadow:1px 1px 2px #f0f0f0;
+    text-shadow:1px 1px 2px black;
 }
 .section h2{
     margin:50px 0px 30px 50px;
@@ -168,6 +168,10 @@ body{
   -o-transform-origin: 100% 50%;
   transform-origin: 100% 50%;
 }
+
+/*
+    Full-screen image 
+                     */
 
 .jumbotron {
   background: url('lift.jpg') no-repeat center center fixed; 
