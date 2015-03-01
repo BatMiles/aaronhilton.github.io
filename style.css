@@ -72,6 +72,10 @@ body{
     color:#000;
 }
 
+.nav{
+    width: 400px;
+}
+
 .nav li{
   position: fixed;
   bottom: 0;
