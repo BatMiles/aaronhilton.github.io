@@ -72,12 +72,11 @@ body{
     color:#000;
 }
 
-.nav {
+.nav li{
   position: fixed;
   bottom: 0;
   right: 0;
-  width: 160px;
-  height: 20px;
+
   display:block;
   z-index: 9999;
 }
