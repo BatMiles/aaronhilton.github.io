@@ -108,7 +108,7 @@ body{
 }
 
 #cd-vertical-nav a span {
-  float: right;
+  /*float: right;*/
   display: inline-block;
   -webkit-transform: scale(0.6);
   -moz-transform: scale(0.6);
