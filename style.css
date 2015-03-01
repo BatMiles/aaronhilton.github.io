@@ -129,7 +129,7 @@ body{
 }
 
 #cd-vertical-nav a.is-selected .cd-dot {
-  background-color: white;
+  background-color: black;
 }
 
 #cd-vertical-nav .cd-dot {
