@@ -137,9 +137,9 @@ body{
 #cd-vertical-nav .cd-dot {
   position: relative;
   /* we set a top value in order to align the dot with the label. If you change label's font, you may need to change this top value*/
-  top: 8px;
-  height: 12px;
-  width: 12px;
+  top: 15px;
+  height: 20px;
+  width: 20px;
   border-radius: 50%;
   background-color: #d88683;
   -webkit-transition: -webkit-transform 0.2s, background-color 0.5s;
@@ -157,7 +157,7 @@ body{
   margin-right: 10px;
   padding: .4em .5em;
   color: black;
-  font-size: 14px;
+  font-size: 20px;
   font-size: 0.875rem;
   -webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
   -moz-transition: -moz-transform 0.2s, opacity 0.2s;
