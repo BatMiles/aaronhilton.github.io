@@ -99,7 +99,7 @@ body{
   	transform-origin: 100% 50%;
 }
  
-#vertical-nav a:hover span {
+#cd-vertical-nav a:hover span {
  	/*scale up navigation dots and labels*/
   	transform: scale(1);
 }
