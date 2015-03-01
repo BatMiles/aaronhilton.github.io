@@ -138,8 +138,8 @@ body{
   position: relative;
   /* we set a top value in order to align the dot with the label. If you change label's font, you may need to change this top value*/
   top: 15px;
-  height: 20px;
-  width: 20px;
+  height: 35px;
+  width: 35px;
   border-radius: 50%;
   background-color: #d88683;
   -webkit-transition: -webkit-transform 0.2s, background-color 0.5s;
