@@ -73,13 +73,13 @@ body{
 }
 
 /*
-    Vertical Navigation
-                         */
+     Navigation
+                    */
 
 
 #cd-vertical-nav {
   position: fixed;
-  left: 50%;
+  right: 0;
   bottom: 0;
   -webkit-transform: translateY(-50%);
   -moz-transform: translateY(-50%);
