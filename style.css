@@ -76,7 +76,8 @@ body{
   position: fixed;
   bottom: 0;
   right: 0;
-  width: auto;
+  width: 160px;
+  height: 20px;
   display:block;
   z-index: 9999;
 }
