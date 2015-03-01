@@ -92,6 +92,8 @@ body{
 
 #cd-vertical-nav li {
   text-align: right;
+  height: 30px;
+  line-height: 30px;
 }
 
 #cd-vertical-nav a {
