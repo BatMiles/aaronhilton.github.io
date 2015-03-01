@@ -83,6 +83,6 @@ body{
 }
 
 .nav-bar ul li a{
-    display:inline;
+    display:block;
     color:black;
 }    
