@@ -76,7 +76,7 @@ body{
     Vertical Navigation
                          */
 
-.cd-vertical-nav {
+#cd-vertical-nav {
 	/*fix the navigation*/
   	position: fixed;
   	right: 40px;
@@ -85,26 +85,26 @@ body{
   	transform: translateY(-50%);
 }
  
-.cd-vertical-nav a span {
+#cd-vertical-nav a span {
   	float: right;
   	/*scale down navigation dots and labels*/
   	transform: scale(0.6);
 }
  
-.cd-vertical-nav .cd-dot {
+#cd-vertical-nav .cd-dot {
   	transform-origin: 50% 50%;
 }
  
-.cd-vertical-nav .cd-label {
+#cd-vertical-nav .cd-label {
   	transform-origin: 100% 50%;
 }
  
-.vertical-nav a:hover span {
+#vertical-nav a:hover span {
  	/*scale up navigation dots and labels*/
   	transform: scale(1);
 }
  
-.cd-vertical-nav a:hover .cd-label {
+#cd-vertical-nav a:hover .cd-label {
 	/*show labels*/
  	opacity: 1;
 }
