@@ -79,7 +79,7 @@ body{
 
 #cd-vertical-nav {
   position: fixed;
-  right: 50%;
+  right: 0;
   left: 50%;
   padding: 5px;
   bottom: 0;
