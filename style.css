@@ -91,5 +91,5 @@ body{
   background-image: url('lift.jpg'); 
   height: 100%;
   width:2000px;
-  repeat: none; 
+  background-repeat:no-repeat; 
 }
