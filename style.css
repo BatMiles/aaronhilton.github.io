@@ -88,11 +88,9 @@ body{
 }    
 
 .jumbotron {
-  background-image: url('lift.jpg'); 
-  top:0;
-  right:0;
-  height: 100%;
-  width:2000px;
-  float: right;
-  background-repeat:no-repeat; 
+  background-image: url('lift.jpg') no-repeat center center fixed; 
+-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
