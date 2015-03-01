@@ -79,8 +79,7 @@ body{
 
 #cd-vertical-nav {
   position: fixed;
-  margin-right: auto;
-  margin-left: auto;
+  left: 50%;
   bottom: 0;
   -webkit-transform: translateY(-50%);
   -moz-transform: translateY(-50%);
