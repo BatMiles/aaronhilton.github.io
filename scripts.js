@@ -1,5 +1,5 @@
 $(function() {
-	$('ul .nav a').bind('click',function(event){
+	$('#cd-vertical-nav a').bind('click',function(event){
 		var $anchor = $(this);
 		/*
 		if you want to use one of the easing effects:
