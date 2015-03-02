@@ -17,7 +17,7 @@ body{
 .section{
     margin:0px;
     bottom:0px;
-    width:4000px;
+    width:100%;
     float:left;
     height:100%;
     text-shadow:1px 1px 2px black;
@@ -70,10 +70,6 @@ body{
 .white ul li a:hover{
     text-decoration:none;
     color:#000;
-}
-
-.photo{
-    text-align: right;
 }
 
 .photo img{
