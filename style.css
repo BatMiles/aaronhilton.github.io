@@ -77,6 +77,10 @@ body{
     float:left;
 }
 
+.photo img{
+    float:center;
+}
+
 /*
      Navigation
                     */
