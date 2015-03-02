@@ -77,10 +77,10 @@ body{
     height: 100%;
 }
 
-.photo img{
-    float:left;
-    left: 900px;
+.photos {
+    margin: 20px;
 }
+
 
 /*
      Navigation
