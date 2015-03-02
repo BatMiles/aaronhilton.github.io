@@ -72,6 +72,10 @@ body{
     color:#000;
 }
 
+.photo{
+    text-align: right;
+}
+
 .photo img{
     margin: 5px;
     padding: 5px;
