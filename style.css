@@ -78,6 +78,7 @@ body{
 }
 
 .photo img{
+    float:left;
     left: 900px;
 }
 
