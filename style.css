@@ -72,6 +72,15 @@ body{
     color:#000;
 }
 
+.photo img{
+    margin: 5px;
+    padding: 5px;
+    width:auto;
+    height:auto;
+    right: 0px;
+    
+}
+
 /*
      Navigation
                     */
