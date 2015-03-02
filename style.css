@@ -32,7 +32,6 @@ body{
 }
 .black{
     color:#fff;
-   
     background:#000;
 }
 .white{
@@ -75,6 +74,7 @@ body{
 
 .wrapper{
     float:left;
+    height: 100%;
 }
 
 .photo img{
