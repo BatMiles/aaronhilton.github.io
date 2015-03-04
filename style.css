@@ -90,9 +90,12 @@ div {
     margin: 50px 0px 0px 50px;
 }
 
-.fadein { position:relative; width:500px; height:100%; }
+.fadein {
+    float:left; 
+    height:100%; 
+}
 
-.fadein img { position:absolute; left:0; top:0; }
+.fadein img { position:absolute; left:0; top:0; margin: 50px 0px 0px 50px;}
 
 /*
      Navigation
