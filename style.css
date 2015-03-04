@@ -87,7 +87,7 @@ div {
 
 .fadein { position:relative; width:500px; height:100%;}
 
-.fadein img { position:absolute; margin: 50px 0px 0px 50px;}
+.fadein img { margin: 50px 0px 0px 50px;}
 
 /*
      Navigation
