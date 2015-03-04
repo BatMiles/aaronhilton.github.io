@@ -15,6 +15,10 @@ body{
     bottom:0px;
 }
 
+div{
+    position: inline;
+}
+
 .section{
     margin:0px;
     bottom:0px;
