@@ -83,7 +83,7 @@ body{
 
 .fadein { width:500px; height:100%;}
 
-.fadein img { position: fixed; left:0px; right:0px; margin: 50px 0px 0px 50px;}
+.fadein img { left:0px; right:0px; margin: 50px 0px 0px 50px;}
 
 /*
      Navigation
