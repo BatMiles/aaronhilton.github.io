@@ -81,16 +81,13 @@ div {
     Photos
             */
 
-.wrapper{
-    float:left;
-    height: 100%;
-}
+.wrapper{  float:left;}
 
 .photos { margin: 50px 0px 0px 50px;}
 
-.fadein { position:relative; width:500px; height:100%; }
+.fadein { position:relative; width:500px;}
 
-.fadein img { position:absolute; left:0; top:0; margin: 50px 0px 0px 50px;}
+.fadein img { position:absolute; margin: 50px 0px 0px 50px;}
 
 /*
      Navigation
